@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371635549768",
+    "firebase_url": "https://planneasy.firebaseio.com",
+    "project_id": "planneasy",
+    "storage_bucket": "planneasy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371635549768:android:a2445173782284e4",
+        "android_client_info": {
+          "package_name": "me.adamfly.planneasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371635549768-l35pioanajkdohuklvql3es2bnos82n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.adamfly.planneasy",
+            "certificate_hash": "8e88827ae438859521ac0a7163d0c35fdeca882d"
+          }
+        },
+        {
+          "client_id": "371635549768-1r02tdnjhte0g30ugp9s3och30e56qfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFzAP9ExHPLsfSJdmxysgIterP9i376Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371635549768-1r02tdnjhte0g30ugp9s3och30e56qfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
